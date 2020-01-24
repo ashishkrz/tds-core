@@ -154,7 +154,7 @@
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.1",
     "webpack-import-glob-loader": "^1.6.3",
-    "yargs": "^13.0.0"
+    "yargs": "^15.0.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.3.1",
